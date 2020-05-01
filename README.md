@@ -6,5 +6,5 @@ Tools included are :-
 
 ![alt text](https://github.com/JohnHammond/ctf-katana/blob/master/img/dna_codes.png)
 
-# usage:-
+# useage:-
 python dnactf.py
