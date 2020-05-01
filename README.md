@@ -5,3 +5,6 @@ Tools included are :-
 1> a simple DNA cipher mapper.
 
 ![alt text](https://github.com/JohnHammond/ctf-katana/blob/master/img/dna_codes.png)
+
+# usage:-
+python dnactf.py
