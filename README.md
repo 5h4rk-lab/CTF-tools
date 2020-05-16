@@ -1,4 +1,5 @@
 # CTF-python-tools
+# 1:-
 thsese tools help you for solving some of the ctf challenges
 
 Tools included are :-
@@ -6,8 +7,12 @@ Tools included are :-
 
 ![alt text](https://github.com/JohnHammond/ctf-katana/blob/master/img/dna_codes.png)
 
-# useage:-
-python dnactf.py
+# 2:-
 
 binary_to_decimal is a simple script used to convert binary numbers to decimal.
 hope it is usefull.
+
+# useage:-
+python dnactf.py
+
+
