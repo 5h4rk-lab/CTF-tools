@@ -8,3 +8,6 @@ Tools included are :-
 
 # useage:-
 python dnactf.py
+
+binary_to_decimal is a simple script used to convert binary numbers to decimal.
+hope it is usefull.
