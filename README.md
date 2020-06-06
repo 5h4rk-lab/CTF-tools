@@ -16,3 +16,10 @@ hope it is usefull.
 python dnactf.py
 
 
+# simple RSA pythone code:-
+
+python rsa1.py
+
+
+
+
