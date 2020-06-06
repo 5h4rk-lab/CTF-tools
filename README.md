@@ -17,6 +17,7 @@ python dnactf.py
 
 
 # simple RSA pythone code:-
+with values p,q,n,e,cipher text.
 
 python rsa1.py
 
