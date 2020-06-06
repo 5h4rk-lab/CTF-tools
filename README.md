@@ -12,7 +12,7 @@ Tools included are :-
 binary_to_decimal is a simple script used to convert binary numbers to decimal.
 hope it is usefull.
 
-# useage:-
+# dna cipher decode to map the above table.
 python dnactf.py
 
 
